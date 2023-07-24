@@ -22,7 +22,7 @@ const FAKE_USER = {
   name: 'Mostafa',
   email: 'mostafa@example.com',
   password: 'mostafa',
-  img: 'https://i.pravatar.cc/100?u=zz',
+  avatar: 'https://i.pravatar.cc/100?u=zz',
 };
 
 function AuthProvider({ children }) {
