@@ -14,7 +14,7 @@ To run the app locally, run the following two scripts:
 
 Runs a fake REST API with data from `./data/cities.json` file on [http://localhost:8000](http://localhost:8000/).
 
-### `npm start`
+### `npm run dev`
 
 Runs the app in the development mode.\
 Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
