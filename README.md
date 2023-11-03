@@ -9,7 +9,7 @@ During this project, I did:
 - Employed Context API to manage state, ensuring real-time updates and efficient data handling.
 - Enabled user-friendly adventure customization with real-time location selection and note-taking.
 - Designed a precise and user-friendly adventure tracking process, and implemented features for viewing summaries of traveled countries.
-- 
+  
 ## Live Project
 
 You can check out the live project [here](https://worldwise-mostafa.vercel.app/).
